@@ -1,6 +1,6 @@
 # PI-ay-ay (VU#747975): How the PIA Firefox Extension Hands Your Bearer Token to Any Website That Asks
 
-> **Why "PI-ay-ay"?** Because whenever any random website responds with an HTTP `401 Unauthorized` challenge, the Private Internet Access (PIA) Firefox extension salutes (*"Aye-Aye!"*) and hands over both halves of your live account bearer token.
+> **Why "PI-ay-ay"?** Say it out loud — it sounds like PII, *Personally Identifiable Information*. Fitting, because this bug in the Private Internet Access (PIA) Firefox extension lets any website silently exfiltrate your account credentials and de-anonymize you behind the VPN.
 
 - **CERT/CC Vulnerability Note:** `VU#747975` (`VU#747975.1`)
 - **CVE ID:** Pending assignment by CERT/CC (`VU#747975`)
